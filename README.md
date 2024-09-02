@@ -164,8 +164,7 @@ Diseñar e implementar un sistema P2P descentralizado y distribuido basado en la
 
 # 5. otra información que considere relevante para esta actividad.
 
-## Video sustentación:
-* Link-https://youtu.be/1VgLSvLXRM4
+## Video sustentación Link-https://youtu.be/1VgLSvLXRM4
 
 # referencias:
 
