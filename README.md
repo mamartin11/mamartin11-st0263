@@ -164,6 +164,9 @@ Diseñar e implementar un sistema P2P descentralizado y distribuido basado en la
 
 # 5. otra información que considere relevante para esta actividad.
 
+## Video sustentación:
+* Link-https://youtu.be/1VgLSvLXRM4
+
 # referencias:
 
 ## DHT-CHORD Project-https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FMNoumanAbbasi%2FChord-DHT-for-File-Sharing&data=05%7C02%7Cmamartin11%40eafit.edu.co%7Cbf357f732d064c11127908dcb8ce0a15%7C99f7b55e9cbe467b8143919782918afb%7C0%7C0%7C638588442287330671%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=l35qnM%2FUWZoz5PG7FP%2BxLkjRbBAQYx1oSSbmqJBdh%2FU%3D&reserved=0
